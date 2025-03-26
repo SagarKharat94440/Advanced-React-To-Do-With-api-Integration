@@ -13,6 +13,21 @@ A feature-rich Todo application built with React, Redux, and modern web technolo
 - Redux State Management
 - Modern UI/UX
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+The login page provides a clean and simple interface for user authentication. It includes username and password fields along with demo credentials for easy testing.
+
+### Main Application
+![Todo Application](screenshots/todo-app.png)
+The main application interface showcases the todo management system with features like:
+- Task input field with priority selection
+- Task list with completion checkboxes
+- Weather check functionality for each task
+- Task deletion option
+- Clean, responsive design with a user-friendly layout
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
